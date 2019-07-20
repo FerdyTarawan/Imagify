@@ -1,0 +1,85 @@
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\CaseMakingComvis.exe.config
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\CaseMakingComvis.exe
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\CaseMakingComvis.pdb
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\obj\Debug\CaseMakingComvis.csprojResolveAssemblyReference.cache
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\obj\Debug\CaseMakingComvis.Form1.resources
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\obj\Debug\CaseMakingComvis.Properties.Resources.resources
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\obj\Debug\CaseMakingComvis.csproj.GenerateResource.Cache
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\obj\Debug\CaseMakingComvis.exe
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\obj\Debug\CaseMakingComvis.pdb
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\obj\Debug\CaseMakingComvis.ImProcForm.resources
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\cudart32_40_17.dll
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\cufft32_40_17.dll
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\cvextern.dll
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\cvextern_gpu.dll
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\npp32_40_17.dll
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\opencv_calib3d231.dll
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\opencv_contrib231.dll
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\opencv_core231.dll
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\opencv_features2d231.dll
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\opencv_ffmpeg.dll
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\opencv_flann231.dll
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\opencv_gpu231.dll
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\opencv_highgui231.dll
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\opencv_imgproc231.dll
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\opencv_legacy231.dll
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\opencv_ml231.dll
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\opencv_objdetect231.dll
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\opencv_video231.dll
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\ZedGraph.dll
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\Emgu.CV.dll
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\Emgu.CV.GPU.dll
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\Emgu.CV.ML.dll
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\Emgu.CV.OCR.dll
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\Emgu.CV.UI.dll
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\Emgu.Util.dll
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\Emgu.CV.xml
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\Emgu.CV.GPU.xml
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\Emgu.CV.ML.xml
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\Emgu.CV.OCR.xml
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\Emgu.CV.UI.xml
+c:\users\ferdy tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\bin\Debug\Emgu.Util.xml
+C:\Users\Ferdy Tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\obj\Debug\CaseMakingComvis.EdgeDetectForm.resources
+C:\Users\Ferdy Tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\obj\Debug\CaseMakingComvis.ShapeDetectForm.resources
+C:\Users\Ferdy Tarawan\documents\visual studio 2012\Projects\CaseMakingComvis\CaseMakingComvis\obj\Debug\CaseMakingComvis.PatternRecognitionForm.resources
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\CaseMakingComvis.exe.config
+D:\New folder\CaseMakingComvis\CaseMakingComvis\obj\Debug\CaseMakingComvis.exe
+D:\New folder\CaseMakingComvis\CaseMakingComvis\obj\Debug\CaseMakingComvis.pdb
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\cudart32_40_17.dll
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\cufft32_40_17.dll
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\cvextern.dll
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\cvextern_gpu.dll
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\haarcascade_eye.xml
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\haarcascade_frontalface_default.xml
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\haarcascade_mcs_nose.xml
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\npp32_40_17.dll
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\opencv_calib3d231.dll
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\opencv_contrib231.dll
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\opencv_core231.dll
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\opencv_features2d231.dll
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\opencv_ffmpeg.dll
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\opencv_flann231.dll
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\opencv_gpu231.dll
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\opencv_highgui231.dll
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\opencv_imgproc231.dll
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\opencv_legacy231.dll
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\opencv_ml231.dll
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\opencv_objdetect231.dll
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\opencv_video231.dll
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\ZedGraph.dll
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\CaseMakingComvis.exe
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\CaseMakingComvis.pdb
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\Emgu.CV.xml
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\Emgu.CV.GPU.xml
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\Emgu.CV.ML.xml
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\Emgu.CV.OCR.xml
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\Emgu.CV.UI.xml
+D:\New folder\CaseMakingComvis\CaseMakingComvis\bin\Debug\Emgu.Util.xml
+D:\New folder\CaseMakingComvis\CaseMakingComvis\obj\Debug\CaseMakingComvis.csprojResolveAssemblyReference.cache
+D:\New folder\CaseMakingComvis\CaseMakingComvis\obj\Debug\CaseMakingComvis.EdgeDetectForm.resources
+D:\New folder\CaseMakingComvis\CaseMakingComvis\obj\Debug\CaseMakingComvis.Form1.resources
+D:\New folder\CaseMakingComvis\CaseMakingComvis\obj\Debug\CaseMakingComvis.ImProcForm.resources
+D:\New folder\CaseMakingComvis\CaseMakingComvis\obj\Debug\CaseMakingComvis.PatternRecognitionForm.resources
+D:\New folder\CaseMakingComvis\CaseMakingComvis\obj\Debug\CaseMakingComvis.Properties.Resources.resources
+D:\New folder\CaseMakingComvis\CaseMakingComvis\obj\Debug\CaseMakingComvis.ShapeDetectForm.resources
+D:\New folder\CaseMakingComvis\CaseMakingComvis\obj\Debug\CaseMakingComvis.csproj.GenerateResource.Cache
